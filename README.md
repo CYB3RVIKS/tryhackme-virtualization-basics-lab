@@ -56,6 +56,22 @@ I completed all assigned tasks and successfully answered all evaluation question
 
 ---
 
+## Evidence/Screenshots
+
+### Mail Server Error
+![Mail Server Error](images/mail-server-error.png)
+
+### Mail Server Restored
+![Mail Server Fixed](images/mail-server-fixed.png)
+
+### New VM Configuration
+![VM Creation](images/VM-creation.png)
+
+### Hypervisor Health Dashboard
+![Hypervisor Status](images/hypervisor-monitoring-view.png)
+
+---
+
 ## Key Takeaways
 
 - Virtual machines can directly impact critical business services like email systems
@@ -72,5 +88,3 @@ This lab helped me understand how virtualization is used in real-world IT enviro
 I now have a clearer understanding of how virtual machines interact with hypervisors and how system administrators ensure service reliability in enterprise environments.
 
 ---
-
-Learning in public 🚀
